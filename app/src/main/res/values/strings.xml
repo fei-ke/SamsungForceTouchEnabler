@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ForceTouchEnabler</string>
+    <string name="xposedDescription">Enable Samsung Force Touch when Navigation Bar invisible
+    </string>
+</resources>
